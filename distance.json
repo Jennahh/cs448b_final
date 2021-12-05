@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": 0,
-      "name": "0"
+      "name": "start"
     },
     {
       "id": 1,
