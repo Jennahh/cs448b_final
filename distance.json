@@ -48,23 +48,28 @@
   "links": [
 
     {
+      "city": "Austin",
       "source": 0,
       "target": 6
     },
     {
+      "city": "Boston",
       "source": 0,
       "target": 3
     },
     {
+      "city": "San Fransisco",
       "source": 0,
       "target": 2
     },
 
     {
+      "city": "New York City",
       "source": 0,
       "target": 9
     },
             {
+      "city": "Chicago",
       "source": 0,
       "target": 2
     }
